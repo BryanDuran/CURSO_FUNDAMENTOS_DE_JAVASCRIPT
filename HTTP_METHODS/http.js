@@ -1,3 +1,13 @@
+
+/*
+- GET: Obtener datos
+- POST: Enviar datos
+- PUT: Actualizar datos
+- DELETE: Eliminar datos
+
+*/ 
+
+
 const listElement = document.getElementById("posts-container");
 const fetchButton = document.querySelector("#available-posts button");
 const form = document.querySelector("#new-post form");
