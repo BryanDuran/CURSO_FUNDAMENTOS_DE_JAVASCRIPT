@@ -29,11 +29,23 @@ class Perro extends Animal { // con extends puedes heredar de los metodos y prop
     correr() {
         console.log(`${this.nombre} está corriendo alegremente.`);
     }
+
 }
 
 const Perro1 = new Perro("Rex", "Canino", "Pastor Alemán");
 Perro1.emitirSonido();
 Perro1.correr();
+
+Perro1.nuevoMetodo = function() {
+    console.log("Este es un nuevo metodo");    
+}
+
+Perro.prototype.segundoMetodo = function() {
+    console.log("Este es un nuevo metodo 2");    
+}
+
+
+
 
 
 
