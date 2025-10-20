@@ -14,7 +14,6 @@ Aquí documento mi progreso y ejemplos prácticos que me ayudan a reforzar mi l�
 ## 🎯 Objetivo
 Fortalecer mis bases en programación y adquirir las habilidades necesarias para desarrollar proyectos más completos en el futuro.
 
----
-![Certificado Fundamentos JavaScript](./assets/certificado_js.jpg)
-
-
+<p align="center">
+  <img src="./assets/certificado_js.jpg" alt="Certificado De Fundamentos JavaScript" width="600"/>
+</p>
