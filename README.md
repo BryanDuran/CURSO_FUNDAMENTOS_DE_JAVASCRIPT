@@ -15,4 +15,6 @@ Aquí documento mi progreso y ejemplos prácticos que me ayudan a reforzar mi l�
 Fortalecer mis bases en programación y adquirir las habilidades necesarias para desarrollar proyectos más completos en el futuro.
 
 ---
+![Certificado Fundamentos JavaScript](./assets/certificado_js.jpg)
+
 
